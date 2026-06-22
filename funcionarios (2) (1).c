@@ -1,10 +1,3 @@
-/* ==========================================================
-   Trabalho Prático - Linguagem C
-   Tema: Sistema de Gerenciamento de Funcionários
-   Aluno: Francisco Yuri Diogenes Gomes
-   Matrícula: 585658
-   ========================================================== */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
